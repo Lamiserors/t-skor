@@ -36,6 +36,10 @@ Program çalıştırıldığında kullanıcıdan aşağıdaki veriler istenir:
 ```
 ![Image](https://github.com/user-attachments/assets/9b35b3ab-2239-4ab8-ba5e-9859945c30fe)
 
+```
+...
+```
+
 ## 📌 Kullanım
 
 ### Derleme
