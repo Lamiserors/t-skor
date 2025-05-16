@@ -34,7 +34,7 @@ Program çalıştırıldığında kullanıcıdan aşağıdaki veriler istenir:
 
 Örnek çıktı:
 
-https://github.com/Lamiserors/t-skor/issues/4#issue-3069046955
+![Image](https://github.com/user-attachments/assets/9b35b3ab-2239-4ab8-ba5e-9859945c30fe)
 
 ## 📌 Kullanım
 
