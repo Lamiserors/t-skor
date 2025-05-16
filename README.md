@@ -43,7 +43,6 @@ Ogrenci notlari:
 001. ogrencinin HBN: 69.50 T-skoru: 65.55, harf notu: BB
 ...
 ```
-https://github.com/Lamiserors/t-skor/issues/3
 
 ## 📌 Kullanım
 
