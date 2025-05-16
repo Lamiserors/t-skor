@@ -34,14 +34,6 @@ Program çalıştırıldığında kullanıcıdan aşağıdaki veriler istenir:
 
 Örnek çıktı:
 
-```
-Sinif ortalamasi: 59.34, standart sapma: 18.29
-Sinif duzeyi: İyi
-
-Ogrenci notlari:
-001. ogrencinin HBN: 69.50 T-skoru: 65.55, harf notu: BB
-...
-```
 
 ## 📌 Kullanım
 
