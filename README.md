@@ -1,4 +1,3 @@
-# t-skor
 
 # Otomatik Sınav Değerlendirme Sistemi
 
