@@ -33,17 +33,9 @@ Program çalıştırıldığında kullanıcıdan aşağıdaki veriler istenir:
 - Boş bırakılma ihtimali
 - Doğru cevaplanma ihtimali
 
-Örnek çıktı:
-
-```
-Sinif ortalamasi: 59.34, standart sapma: 18.29
-Sinif duzeyi: İyi
-
-Ogrenci notlari:
-001. ogrencinin HBN: 69.50 T-skoru: 65.55, harf notu: BB
-...
 ```
 ![Image](https://github.com/user-attachments/assets/9b35b3ab-2239-4ab8-ba5e-9859945c30fe)
+
 ## 📌 Kullanım
 
 ### Derleme
