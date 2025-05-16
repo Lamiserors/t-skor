@@ -43,7 +43,7 @@ Ogrenci notlari:
 001. ogrencinin HBN: 69.50 T-skoru: 65.55, harf notu: BB
 ...
 ```
-
+![Image](https://github.com/user-attachments/assets/9b35b3ab-2239-4ab8-ba5e-9859945c30fe)
 ## 📌 Kullanım
 
 ### Derleme
